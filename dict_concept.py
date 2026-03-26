@@ -1,5 +1,4 @@
-def get_config():
-    return {
+def get_config(): {
         "width": 480,
         "height": 480,
         "color_mode": "dark",
