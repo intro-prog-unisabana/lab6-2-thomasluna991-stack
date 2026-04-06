@@ -4,32 +4,32 @@ Lab 6
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
 Número de horas:
-
+5
 
 /****************************************************************************
 * ¿Encontraste algún problema serio? Si es así, por favor descríbelo.
 ******************************************************************************/
 
 ¿Sí o no?
-
+no
 
 /****************************************************************************
 * Escribe cualquier otro comentario aquí.
 ******************************************************************************/
 
-
+El laboratorio estuvo bien
 
 /****************************************************************************
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
 [escribe el enlace aquí]
-
+https://github.com/thomasluna991-stack
 /****************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
  *  Para tu firma, escribe /s/, seguido de tu nombre.
  *  Aquí hay un ejemplo:
- *
+ */s/ Thomas Luna Navarro
  *      Esta tarea de programación representa mi propio trabajo de acuerdo
  *      con las regulaciones de la Universidad.  /s/ Ada Lovelace
  ******************************************************************************/
